@@ -1,3 +1,5 @@
+@import "./reset.css";
+
 .menu {
   width: 100%;
 }
@@ -45,7 +47,7 @@
   display: flex;
   flex-direction: row;
 
-  background-color: #843cf0;
+  background-color: #291bf5;
 }
 
 .line .line__sub {
@@ -63,7 +65,7 @@
 
 .bottom .bottom__outside {
   width: 20%;
-  background-color: #f06546;
+  background-color: #4a5de8;
 }
 
 .bottom .bottom__inside {
@@ -78,14 +80,14 @@
   width: 100%;
   height: 150px;
   border: 2px solid #000;
-  background-color: #545252;
+  background-color: #3389f2;
 }
 
 .bottom__inside__down {
   width: 100%;
   height: 150px;
   border: 2px solid #000;
-  background-color: #2acafa;
+  background-color: #1fbaf2;
 
   display: flex;
   flex-direction: column;
